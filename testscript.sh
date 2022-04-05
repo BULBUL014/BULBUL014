@@ -4,4 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "Test koral Janno"
 echo "test"
-echo "jai oke test kor hai"
+echo "jai oke test kor ha"
